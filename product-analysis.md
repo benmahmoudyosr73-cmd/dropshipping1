@@ -113,35 +113,35 @@
 - **Shots:** Side-by-side tomato slice test. Paper cut test. Onion dice speed test. Close-up of clean cuts.
 - **Sound:** Trending upbeat audio, ASMR cutting sounds layered
 - **CTA:** "Link in bio — which one would you pick?"
-- **Production time:** 20 min filming, 30 min edit
+- **Production time:** 30 min (AI clips + stock footage + edit)
 
 #### Script K2: Hook-First TikTok — "Knife Red Flag"
 - **Hook (0–3s):** "If your knife does THIS to a tomato, throw it away" — show a dull knife crushing a tomato
 - **Shots:** Dull knife fails. Cut to new knife gliding through. Slow-mo of clean slice. Stack of perfect tomato slices.
 - **Sound:** Dramatic sound effect on the crush, satisfying slice sounds after
 - **CTA:** "Upgrade your kitchen — link in bio"
-- **Production time:** 15 min filming, 20 min edit
+- **Production time:** 15 min sourcing/generating, 20 min edit
 
 #### Script K3: Hook-First TikTok — "What $55 Gets You"
 - **Hook (0–3s):** Unbox all 4 knives rapidly, fanning them out on a magnetic strip or cutting board
 - **Shots:** Each knife doing its specialty cut. Chef knife on vegetables, paring knife on fruit, bread knife on baguette, utility knife on meat.
 - **Sound:** Fast-paced trending audio
 - **CTA:** "Full set, $55. Link in bio."
-- **Production time:** 25 min filming, 25 min edit
+- **Production time:** 25 min sourcing/generating, 25 min edit
 
 #### Script K4: ASMR / Satisfying — "Silent Chef"
 - **Hook (0–3s):** Close-up of knife edge catching light — no text, no music, pure visual
 - **Shots:** Slow-motion cuts through various foods. Pepper, cucumber, steak, bread. Focus on clean sounds. Final shot: beautiful mise en place arrangement.
 - **Sound:** Raw cutting ASMR only — no music, no voiceover
 - **CTA:** Text overlay at end: "Set in bio"
-- **Production time:** 30 min filming, 40 min edit (sound design matters)
+- **Production time:** 30 min sourcing/generating, 40 min edit (sound design matters)
 
 #### Script K5: ASMR / Satisfying — "Morning Prep"
 - **Hook (0–3s):** Top-down shot of empty cutting board, hand reaches in with knife
 - **Shots:** Full breakfast prep in one continuous flow. Dicing onions, slicing avocado, julienning peppers, mincing garlic. All with the knife set.
 - **Sound:** Kitchen ambiance + cutting sounds, soft morning music
 - **CTA:** Subtle product card at end
-- **Production time:** 40 min filming, 45 min edit
+- **Production time:** 40 min sourcing/generating, 45 min edit
 
 #### Script K6: Story Ad — "The Cooking Date"
 - **Hook (0–3s):** "I almost ruined our anniversary dinner..."
@@ -155,28 +155,28 @@
 - **Shots:** Gift wrapping → giving to mom → her unboxing → skeptical face → first cut → eyes widen → "where did you get these?!"
 - **Sound:** Heartfelt background music, real or AI voiceover narration
 - **CTA:** "She uses them every day now. Link in bio."
-- **Production time:** Requires second person. 45 min filming, 45 min edit
+- **Production time:** 45 min sourcing/generating, 45 min edit (use HeyGen avatars for both "characters")
 
 #### Script K8: Comparison — "Is It Worth It?"
 - **Hook (0–3s):** "I bought the most popular knife sets under $60 to find the best one"
 - **Shots:** Lineup of 3 knife sets. Test each on the same foods. Score them on sharpness, balance, grip, looks. Declare a winner (yours).
 - **Sound:** Review-style voiceover, background music
 - **CTA:** "Winner is in bio. Save this for later."
-- **Production time:** Need competitor products. 1.5 hours filming, 1 hour edit
+- **Production time:** 1 hour sourcing competitor images online, 1 hour edit
 
 #### Script K9: UGC Testimonial — "3 Weeks Later"
 - **Hook (0–3s):** Person talking to camera: "Okay so I bought this knife set from TikTok 3 weeks ago..."
 - **Shots:** Casual talking head → show the knives in their kitchen → demo a few cuts → show wear/condition after 3 weeks → honest take
 - **Sound:** No music, authentic UGC feel, phone-quality audio
 - **CTA:** "Honestly worth it. Link in their bio."
-- **Production time:** 15 min filming, 15 min edit. Script this for a micro-creator or generate with HeyGen.
+- **Production time:** 15 min sourcing/generating, 15 min edit. Script this for a micro-creator or generate with HeyGen.
 
 #### Script K10: Duet/Stitch Bait — "Rate My Knife Skills"
 - **Hook (0–3s):** "Chefs, rate my knife skills 1–10" — immediately start chopping fast and impressively
 - **Shots:** Rapid-fire cutting compilation. Intentionally leave one slightly wrong technique to bait comments/corrections.
 - **Sound:** Energetic music, text overlay asking for ratings
 - **CTA:** Engagement IS the CTA — comments and stitches drive reach. Pin a comment with the product link.
-- **Production time:** 20 min filming, 20 min edit
+- **Production time:** 20 min sourcing/generating, 20 min edit
 
 ---
 
@@ -187,70 +187,70 @@
 - **Shots:** Install clips in real-time → route each cable → final reveal of clean desk from all angles
 - **Sound:** Trending "glow up" audio
 - **CTA:** "$12 fix. Link in bio."
-- **Production time:** 20 min filming, 25 min edit
+- **Production time:** 20 min sourcing/generating, 25 min edit
 
 #### Script C2: Hook-First TikTok — "Things Under $15 That Changed My Desk"
 - **Hook (0–3s):** Quick montage teaser of 3 items, cable clips featured prominently
 - **Shots:** Each item demo'd briefly. Cable clips get the longest segment with before/after.
 - **Sound:** Fast trending audio with beat drops on each reveal
 - **CTA:** "All linked in bio"
-- **Production time:** 30 min filming, 30 min edit
+- **Production time:** 30 min sourcing/generating, 30 min edit
 
 #### Script C3: Hook-First TikTok — "POV: You Finally Fix Your Cables"
 - **Hook (0–3s):** First-person hand reaching under a messy desk
 - **Shots:** POV of peeling adhesive, sticking clips, snapping each cable in. Satisfying click sounds.
 - **Sound:** ASMR click sounds amplified, soft background music
 - **CTA:** Text overlay: "Link in bio — your future self thanks you"
-- **Production time:** 15 min filming, 20 min edit
+- **Production time:** 15 min sourcing/generating, 20 min edit
 
 #### Script C4: ASMR / Satisfying — "Click, Click, Done"
 - **Hook (0–3s):** Extreme close-up of magnetic clip snapping onto a cable
 - **Shots:** Each clip being installed, one by one. Magnetic snap sound. All 5 cables organized. Final wide shot of pristine desk.
 - **Sound:** Pure ASMR — magnetic clicks, adhesive peel, cable snap-in sounds
 - **CTA:** End card with product
-- **Production time:** 15 min filming, 30 min edit (sound design)
+- **Production time:** 15 min sourcing/generating, 30 min edit (sound design)
 
 #### Script C5: ASMR / Satisfying — "The Full Desk Reset"
 - **Hook (0–3s):** Completely trashed desk — papers, cables, cups everywhere
 - **Shots:** Speed-clean the entire desk. Cable clips are the star of the cable section. End with a perfectly organized workspace.
 - **Sound:** Cleaning ASMR sounds, no music
 - **CTA:** "Everything I used → link in bio"
-- **Production time:** 45 min filming, 40 min edit
+- **Production time:** 45 min sourcing/generating, 40 min edit
 
 #### Script C6: Story Ad — "My Boss Saw My Desk on Zoom"
 - **Hook (0–3s):** "So my boss made a comment about my messy desk on our Zoom call..."
 - **Shots:** Embarrassing Zoom moment reenactment → ordering clips → installing them → next Zoom call, boss compliments the setup
 - **Sound:** Storytelling voiceover, relatable WFH music
 - **CTA:** "Never again. Link in bio."
-- **Production time:** 30 min filming, 35 min edit
+- **Production time:** 30 min sourcing/generating, 35 min edit
 
 #### Script C7: Story Ad — "My Girlfriend's Ultimatum"
 - **Hook (0–3s):** "She said if I don't clean my desk she's taking the spare room..."
 - **Shots:** Messy desk → partner's disgusted face → ordering solution → montage of organizing → partner's approval
 - **Sound:** Comedic tone, trending relationship audio
 - **CTA:** "Relationship saved for $12"
-- **Production time:** Requires second person. 30 min filming, 30 min edit
+- **Production time:** 30 min sourcing/generating, 30 min edit (use HeyGen avatars for both roles)
 
 #### Script C8: Comparison — "I Tried 4 Cable Organizers"
 - **Hook (0–3s):** "Which cable organizer actually works?" — show 4 products
 - **Shots:** Test each one: velcro ties, cable box, cable sleeve, magnetic clips. Rate on ease, look, reusability. Clips win.
 - **Sound:** Review-style voiceover
 - **CTA:** "Winner linked in bio"
-- **Production time:** Need competitor products. 1 hour filming, 45 min edit
+- **Production time:** 1 hour sourcing competitor images online, 45 min edit
 
 #### Script C9: UGC Testimonial — "WFH Essential I Wish I Bought Sooner"
 - **Hook (0–3s):** Casual talking head: "Okay I never thought I'd make a video about cable clips but..."
 - **Shots:** Show their real desk, real install, real reaction to the difference
 - **Sound:** No music, raw UGC
 - **CTA:** "It's $12, just do it"
-- **Production time:** 10 min filming, 10 min edit. Perfect for HeyGen AI avatar.
+- **Production time:** 10 min sourcing/generating, 10 min edit. Perfect for HeyGen AI avatar.
 
 #### Script C10: Duet/Stitch Bait — "Show Me Your Desk Cables"
 - **Hook (0–3s):** "I'll fix your cable mess — stitch this with your setup"
 - **Shots:** Show your own before/after transformation as the example
 - **Sound:** Engaging audio that invites participation
 - **CTA:** Engagement drives reach. Pin comment with link.
-- **Production time:** 10 min filming, 15 min edit
+- **Production time:** 10 min sourcing/generating, 15 min edit
 
 ---
 
@@ -261,76 +261,117 @@
 - **Shots:** Multiple angles. Phone placed on it. Show it in different room settings (desk, nightstand, kitchen counter).
 - **Sound:** Elegant, slightly mysterious music
 - **CTA:** "Handcrafted, under $25. Link in bio."
-- **Production time:** 20 min filming, 25 min edit
+- **Production time:** 20 min sourcing/generating, 25 min edit
 
 #### Script P2: Hook-First TikTok — "Gift Idea They'll Actually Use"
 - **Hook (0–3s):** Text: "Stuck on a gift under $30? Stop scrolling."
 - **Shots:** Gift wrapping the stand → handing it over → recipient's genuine reaction → them using it daily
 - **Sound:** Warm, gift-giving trending audio
 - **CTA:** "They'll think of you every time they use it"
-- **Production time:** 25 min filming, 20 min edit
+- **Production time:** 25 min sourcing/generating, 20 min edit
 
 #### Script P3: Hook-First TikTok — "Things on My Desk That Get Compliments"
 - **Hook (0–3s):** Quick pan across desk, pause on phone stand
 - **Shots:** Zoom into each item. Phone stand gets the feature segment — show the resin detail, the wood grain, the phone sitting perfectly.
 - **Sound:** Trending "things I love" audio
 - **CTA:** "All linked in bio"
-- **Production time:** 15 min filming, 20 min edit
+- **Production time:** 15 min sourcing/generating, 20 min edit
 
 #### Script P4: ASMR / Satisfying — "Resin Meets Wood"
 - **Hook (0–3s):** Extreme macro shot of resin swirl pattern
 - **Shots:** Slow pan across the stand's surface. Gentle phone placement. 360-degree rotation on a turntable.
 - **Sound:** Soft ambient tones, no voiceover
 - **CTA:** End card
-- **Production time:** 15 min filming, 30 min edit (color grading matters)
+- **Production time:** 15 min sourcing/generating, 30 min edit (color grading matters)
 
 #### Script P5: ASMR / Satisfying — "Unboxing Something Beautiful"
 - **Hook (0–3s):** Hands opening a package, tissue paper rustling
 - **Shots:** Slow unboxing. First reveal of the stand. Running fingers over the resin. Placing phone. Stepping back to admire.
 - **Sound:** Pure unboxing ASMR — paper, bubble wrap, surface texture sounds
 - **CTA:** Subtle end card
-- **Production time:** 15 min filming, 20 min edit
+- **Production time:** 15 min sourcing/generating, 20 min edit
 
 #### Script P6: Story Ad — "The Gift That Changed Everything"
 - **Hook (0–3s):** "I needed a last-minute gift and panicked..."
 - **Shots:** Scrolling phone stressed → finding the stand → ordering → it arrives → wrapping → gifting → recipient posts it on Instagram themselves
 - **Sound:** Storytelling voiceover, uplifting arc
 - **CTA:** "Best $25 I ever spent"
-- **Production time:** 30 min filming, 35 min edit
+- **Production time:** 30 min sourcing/generating, 35 min edit
 
 #### Script P7: Story Ad — "I Collect Resin Art"
 - **Hook (0–3s):** "I'm obsessed with resin art and I just found this..."
 - **Shots:** Show existing resin collection → phone stand arrives → fits perfectly → show how each one has unique patterns
 - **Sound:** Aesthetic/artsy background music
 - **CTA:** "Each one is unique — link in bio before they sell out"
-- **Production time:** 20 min filming, 25 min edit
+- **Production time:** 20 min sourcing/generating, 25 min edit
 
 #### Script P8: Comparison — "Phone Stands: Cheap vs Unique"
 - **Hook (0–3s):** "$5 Amazon stand vs $25 resin stand — worth it?"
 - **Shots:** Side by side on same desk. Generic plastic stand looks cheap. Resin stand elevates the whole desk aesthetic. Functionality test (stability, angle).
 - **Sound:** Review voiceover, fair comparison tone
 - **CTA:** "You decide. Both linked in bio."
-- **Production time:** 30 min filming, 30 min edit
+- **Production time:** 30 min sourcing/generating, 30 min edit
 
 #### Script P9: UGC Testimonial — "My Favorite Desk Purchase"
 - **Hook (0–3s):** "I've spent way too much on desk stuff but THIS was worth every penny"
 - **Shots:** Show the stand in their real setup. Honest take on quality. Show daily use.
 - **Sound:** Raw UGC, no music
 - **CTA:** "Link in bio"
-- **Production time:** 10 min filming, 10 min edit. Ideal for HeyGen or real creator.
+- **Production time:** 10 min sourcing/generating, 10 min edit. Ideal for HeyGen or real creator.
 
 #### Script P10: Duet/Stitch Bait — "What's on Your Desk?"
 - **Hook (0–3s):** "Show me your desk setup and I'll rate it — but you NEED one of these"
 - **Shots:** Tour your own desk, dramatically reveal the phone stand as the centerpiece
 - **Sound:** Trending desk tour audio
 - **CTA:** Comments and stitches drive reach
-- **Production time:** 10 min filming, 15 min edit
+- **Production time:** 10 min sourcing/generating, 15 min edit
 
 ---
 
-## 3. AI Video Production Pipeline
+## 3. No-Sample Video Creation — Full AI & Sourced Footage Pipeline
 
-### Tool Stack & Costs
+You do NOT need the physical products to start creating content. Here's how to build a content machine with zero samples.
+
+---
+
+### 3A. Where to Get Footage Without Samples
+
+#### Source 1: CJ Dropshipping Product Assets
+- Go to each product's CJ page → download all supplier photos and videos
+- Most CJ listings have 5–15 product photos and sometimes a supplier demo video
+- These are YOUR assets as a seller — you're licensed to use them
+- **How to use:** Import into CapCut, add zoom/pan animations (Ken Burns effect), layer with voiceover and text
+
+#### Source 2: Free Stock Footage (Royalty-Free)
+- **Pexels.com** — search "knife cutting vegetables", "chef cooking", "desk setup", "cable management", "phone on stand"
+- **Pixabay.com** — similar library, also has free stock photos
+- **Coverr.co** — cinematic lifestyle clips perfect for product context
+- **Mixkit.co** — free high-quality video clips and music
+- Download in 1080p or 4K. No attribution required. Use as B-roll around your product images.
+
+#### Source 3: AI-Generated Video Clips
+- **Kling AI** — best for realistic product scenes. Prompt: "Close-up of a chef knife slicing through a ripe tomato on a marble countertop, cinematic lighting, slow motion, 4K"
+- **Runway ML Gen-3** — generate 5–10 second lifestyle clips from text descriptions
+- **Pika** — good for stylized/artistic product reveals and transitions
+- **Luma Dream Machine** — free tier available, decent quality for social media
+- Generate 3–4 variations per prompt, keep the best. Stitch them together in CapCut.
+
+#### Source 4: Screen Recording "Product Find" Style
+- Screen-record yourself browsing the CJ product page or your Shopify store
+- Zoom into product photos, scroll through reviews, highlight features
+- This "I found this online" format is one of the HIGHEST performing styles on TikTok
+- Voiceover: "Okay so I found this and I'm actually obsessed..."
+- Requires zero footage — just a screen recorder and a voice
+
+#### Source 5: Google Images / Pinterest (for mood boards and slideshows)
+- Search "[product type] aesthetic" or "[product type] in use"
+- Use for slideshow-style videos with zoom animations and voiceover
+- Add text overlays like "Why everyone is buying this knife set in 2024"
+- Note: don't use copyrighted photos in paid ads — stock footage and AI-generated images are safer for ads
+
+---
+
+### 3B. Tool Stack & Costs
 
 | Tool | What It Does | Monthly Cost | Output |
 |------|-------------|-------------|--------|
@@ -341,33 +382,55 @@
 | **Kling AI** | AI video generation — product transformation scenes, cinematic shots | $5–10/mo | Cinematic product reveals |
 | **Canva** | Thumbnails, carousel posts, ad creatives, brand kit | $13/mo (Pro) | Static creatives, thumbnails |
 | **OpusClip** | Auto-clip long videos into Shorts/TikToks | $9/mo | Repurposed clips |
+| **Luma Dream Machine** | AI video — free tier for quick clips | Free (Pro: $10/mo) | Short product scene clips |
+| **Pika** | AI video — stylized transitions and reveals | Free tier available | Creative product reveals |
 
-**Monthly tooling budget by tier:**
-- **Starter (5 videos/week):** CapCut Free + ElevenLabs = **$5/mo**
+**Monthly tooling budget by tier (no samples needed at any tier):**
+- **Starter (5 videos/week):** CapCut Free + ElevenLabs + stock footage = **$5/mo**
 - **Growth (15 videos/week):** + HeyGen + Canva = **$42/mo**
 - **Scale (30 videos/week):** + Runway + Kling + OpusClip = **$76/mo**
 
-### Step-by-Step Workflows
+---
 
-#### Workflow 1: AI Voiceover Product Showcase (easiest, do this first)
+### 3C. Step-by-Step Workflows (No Samples)
 
-1. **Film product footage** on your phone (natural light, clean background, 60fps for slow-mo)
-2. **Write the script** — use one of the 30 scripts above
+#### Workflow 1: Supplier Photos + AI Voiceover (easiest — start here TODAY)
+
+1. **Download all product photos** from the CJ product page (right-click → save, or screenshot)
+2. **Write the script** — use one of the 30 scripts above, adapted for photo-based visuals
 3. **Generate voiceover** in ElevenLabs:
    - Pick a voice that matches your brand (warm male, energetic female, etc.)
    - Paste script → adjust pacing with commas and periods
    - Download MP3
 4. **Edit in CapCut:**
-   - Import footage + voiceover
-   - Sync cuts to the voiceover beats
+   - Import product photos → apply slow zoom/pan animation to each (2–3 seconds per photo)
+   - Layer the voiceover on top
    - Add text overlays for key claims ("4 knives, $55", "each piece is unique")
    - Add auto-captions (CapCut does this automatically)
    - Add trending sound underneath at 10–15% volume
+   - Use CapCut transitions between photos (smooth fade, slide, or zoom)
 5. **Export** at 1080x1920 (9:16 vertical) → post to TikTok, Shorts, Reels
 
-**Time per video:** 45 min–1 hour
+**Time per video:** 30–45 min. **Cost:** $0–5.
 
-#### Workflow 2: AI Avatar Product Review (medium effort, high trust)
+#### Workflow 2: Screen Recording "Product Find" (fastest, most authentic feel)
+
+1. **Open the product page** on your phone or computer (your Shopify store or CJ page)
+2. **Start screen recording** (phone: built-in recorder; PC: OBS Studio, free)
+3. **Browse the product naturally** — scroll through photos, zoom into details, check the price, read features
+4. **Record voiceover** simultaneously or add it after:
+   - "Okay I just found this and I need to talk about it..."
+   - "So I've been looking for a good knife set and look at this..."
+   - "This is the phone stand everyone's been posting about..."
+5. **Edit in CapCut:**
+   - Trim the recording to 15–30 seconds
+   - Add text overlays and zoom effects on key moments
+   - Add captions and a trending sound
+6. **Post directly** — this raw, unpolished style performs extremely well on TikTok
+
+**Time per video:** 10–15 min. **Cost:** $0.
+
+#### Workflow 3: AI Avatar Review with Supplier B-Roll (medium effort, high trust)
 
 1. **Create your avatar** in HeyGen:
    - Use a stock avatar or upload a photo to create a custom one
@@ -376,39 +439,71 @@
 2. **Write review script** (use Script K9, C9, or P9 as templates)
 3. **Generate the video** in HeyGen — avatar delivers the review naturally
 4. **Edit in CapCut:**
-   - Cut in real product footage as B-roll while avatar talks
+   - Cut in CJ supplier photos/videos as B-roll while avatar talks
    - Add text overlays and captions
-   - Add product close-ups when avatar mentions specific features
+   - Add product close-ups (from supplier images) when avatar mentions features
 5. **Export and post**
 
-**Time per video:** 30 min (mostly waiting for HeyGen to render)
+**Time per video:** 30 min (mostly waiting for HeyGen to render). **Cost:** ~$1 per video (HeyGen credits).
 
-#### Workflow 3: AI-Generated Lifestyle Scenes (advanced, highest production value)
+#### Workflow 4: Full AI-Generated Product Video (highest production value, zero real footage)
 
-1. **Write scene prompts** for Runway/Kling:
-   - Knife set: "Professional chef knife set on white marble countertop, morning light streaming through window, herbs and vegetables arranged nearby, cinematic 4K"
-   - Phone stand: "Resin and wood phone stand on minimalist Scandinavian desk, warm afternoon light, shallow depth of field, aesthetic workspace"
-   - Cable clips: "Clean organized desk setup with magnetic cable clips holding white cables against dark desk edge, overhead shot, soft lighting"
-2. **Generate 5-second clips** — run 3–4 variations per prompt, keep the best
-3. **Combine with real footage** in CapCut — AI scenes for the "hero" beauty shots, real footage for the functional demos
-4. **Add AI voiceover** from ElevenLabs
-5. **Final edit** with transitions, text, and music
+1. **Generate product scene clips** with Kling AI or Runway:
+   - Knife set prompts:
+     - "Close-up of a professional chef knife slicing through a ripe red tomato on white marble, slow motion, cinematic lighting"
+     - "Four kitchen knives arranged on a dark wooden cutting board, herbs scattered around, warm kitchen light, overhead shot"
+     - "Hand picking up a chef knife from a magnetic strip, sleek modern kitchen background"
+   - Cable clips prompts:
+     - "Clean minimalist desk setup with perfectly organized cables, magnetic clips holding white cables against dark desk edge, soft overhead light"
+     - "Before and after desk cable management, split screen, modern office"
+   - Phone stand prompts:
+     - "Beautiful resin and wood phone stand on a Scandinavian desk, phone displaying a recipe, warm golden hour light through window"
+     - "Close-up of swirling blue and green resin patterns in a handmade phone stand, rotating slowly on white background"
+2. **Generate 3–4 variations** per prompt (5-second clips each), keep the best
+3. **Add AI voiceover** from ElevenLabs — use a script from Section 2
+4. **Edit in CapCut:**
+   - Stitch the AI clips together in a logical sequence (reveal → demo → lifestyle)
+   - Mix in supplier photos for product detail shots
+   - Add text overlays, captions, trending sound
+5. **Export and post**
 
-**Time per video:** 1–1.5 hours (generation time + editing)
+**Time per video:** 1–1.5 hours (AI generation time + editing). **Cost:** ~$2–3 per video.
 
-#### Workflow 4: Batch Content Machine (scale mode)
+#### Workflow 5: Stock Footage Mashup (great for story-style ads)
 
-1. **Film one 30-minute session** per product — capture every angle, demo, unboxing
-2. **In CapCut, create a "master" project** with all footage organized by shot type
-3. **Generate 5 different edits** from the same footage:
-   - Version A: Fast-paced with trending audio (15s)
-   - Version B: ASMR cut with raw sounds (30s)
-   - Version C: Voiceover story version (45s)
-   - Version D: Comparison/review cut (60s)
-   - Version E: AI avatar introduction + B-roll (30s)
-4. **Post each version on a different day** — same footage, 5x the content
+1. **Download 5–8 relevant stock clips** from Pexels/Coverr:
+   - Knife set: "cooking in kitchen", "chef chopping vegetables", "dinner table setting"
+   - Cable clips: "messy desk", "work from home", "typing on laptop clean desk"
+   - Phone stand: "aesthetic desk", "morning routine", "gift giving"
+2. **Download CJ supplier product photos**
+3. **Generate voiceover** in ElevenLabs — use a story-style script (K6, K7, C6, C7, P6, P7)
+4. **Edit in CapCut:**
+   - Stock footage tells the STORY (the problem, the lifestyle)
+   - Supplier photos are the REVEAL (the product solution)
+   - Structure: stock clip (problem) → product reveal (supplier photo with zoom) → stock clip (happy outcome)
+   - Add voiceover, captions, music
+5. **Export and post**
 
-**One filming session → 5 videos → 15 posts (TikTok + Shorts + Reels)**
+**Time per video:** 45 min–1 hour. **Cost:** $0–2.
+
+#### Workflow 6: Batch Content Machine (scale mode — no samples)
+
+Instead of one filming session, do a **content creation sprint:**
+
+1. **Block 2 hours** — your "content factory" session
+2. **Generate assets upfront:**
+   - 10 AI voiceovers in ElevenLabs (paste all 10 scripts, generate, download)
+   - 5 AI video clips per product in Kling/Runway (run prompts while editing)
+   - Download all supplier photos and 10 stock clips
+3. **In CapCut, create 5 different edits** from the same asset pool:
+   - Version A: Fast slideshow with trending audio (15s) — supplier photos only
+   - Version B: Screen recording product find (20s) — zero editing skill needed
+   - Version C: AI voiceover + supplier photos + stock B-roll (30–45s)
+   - Version D: AI avatar review + product photos (30s)
+   - Version E: Full AI-generated cinematic version (30–45s)
+4. **Post each version on a different day** — same product, 5 styles, 5 days of content
+
+**One 2-hour sprint → 5 videos per product → 15 videos total → 45 posts across 3 platforms**
 
 ---
 
@@ -511,7 +606,7 @@
 
 ### Creative Testing Matrix
 
-From just 3 filming sessions, you can create 18 ad variations:
+From just 3 content creation sprints (no samples needed), you can create 18 ad variations:
 
 | | Hook A: Problem | Hook B: Unboxing | Hook C: Comparison |
 |---|---|---|---|
@@ -712,21 +807,23 @@ Week 8 checkpoint:
 
 ### Week-by-Week Milestone Checklist
 
-- [ ] **Week 1:** Receive CJ confirmations. Order samples. Set up Shopify store.
-- [ ] **Week 2:** Receive samples. Film all products (one day session). Set up TikTok, YouTube, Instagram accounts.
-- [ ] **Week 3:** Post 10 organic videos (mix of all 3 products). Edit with AI voiceovers. Set up Shopify pixel + Klaviyo email.
-- [ ] **Week 4:** Evaluate organic performance. Boost top 2 videos as Spark Ads ($20/day). Set up retargeting pixel.
-- [ ] **Week 5:** Scale winning ads. Kill losing ads. Create 5 new variations of the winning hook. Launch YouTube Shorts.
-- [ ] **Week 6:** Add retargeting campaigns. Launch email abandoned cart flow. Test post-purchase upsell.
-- [ ] **Week 7:** Evaluate profitability. If profitable: increase budget to $50–100/day. If not: pivot creative strategy.
-- [ ] **Week 8:** Full evaluation. Decide: scale, pivot, or add second product. Begin private label inquiry if doing 100+ orders.
+- [ ] **Week 1:** Follow up on CJ tickets. Set up Shopify store. Create TikTok, YouTube, Instagram accounts. Start TikTok warmup protocol. Download all supplier photos/videos from CJ.
+- [ ] **Week 2:** Sign up for ElevenLabs + CapCut. Do your first content sprint — create 5 videos per product using Workflow 1 (supplier photos + AI voiceover) and Workflow 2 (screen recording). Post daily.
+- [ ] **Week 3:** Add HeyGen. Create AI avatar "brand host." Produce 5 more videos per product using Workflow 3 (AI avatar reviews). Post 1–2x daily. Set up Shopify pixel + Klaviyo email.
+- [ ] **Week 4:** Evaluate organic performance. Boost top 2 videos as Spark Ads ($20/day). Start generating AI video clips with Kling/Runway for higher-production versions.
+- [ ] **Week 5:** Scale winning ads. Kill losing ads. Create 5 new variations of the winning hook using Workflow 4 (full AI-generated). Launch YouTube Shorts.
+- [ ] **Week 6:** Add retargeting campaigns. Launch email abandoned cart flow. Test post-purchase upsell. Run a Batch Content Machine sprint (Workflow 6) for 15 videos in 2 hours.
+- [ ] **Week 7:** Evaluate profitability. If profitable: increase budget to $50–100/day. If not: pivot creative strategy or test new AI-generated angles.
+- [ ] **Week 8:** Full evaluation. Decide: scale, pivot, or add second product. Order samples of winning product for real footage to mix with AI content. Begin private label inquiry if doing 100+ orders.
 
 ---
 
 ## Quick-Reference: Priority Actions Right Now
 
-1. **Follow up on all 3 CJ tickets** — nothing moves until specs are confirmed
-2. **Set up your Shopify store** while waiting — choose a name, install a theme (Dawn is free and fast), set up payment processing
-3. **Create your TikTok business account** and start the 7-day warmup protocol
-4. **Sign up for ElevenLabs** ($5/mo) and CapCut (free) — start experimenting with voiceovers
-5. **Start filming practice content** with anything in your kitchen — get comfortable with phone filming, lighting, angles before your samples arrive
+1. **Follow up on all 3 CJ tickets** — you need confirmed specs for credible product descriptions
+2. **Download all supplier photos/videos** from each CJ product page right now — this is your footage library
+3. **Set up your Shopify store** while waiting — choose a name, install a theme (Dawn is free and fast), set up payment processing
+4. **Create your TikTok business account** and start the 7-day warmup protocol
+5. **Sign up for ElevenLabs** ($5/mo) and CapCut (free) — make your first video TODAY using Workflow 1 or 2 (supplier photos + voiceover, or screen recording). No samples needed.
+6. **Download 10 stock clips** from Pexels matching each product niche — build your B-roll library
+7. **Try one AI video prompt** on Kling AI or Luma (free tiers) — see how realistic the output is for your products
