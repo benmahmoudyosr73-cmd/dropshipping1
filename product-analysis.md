@@ -371,7 +371,153 @@ You do NOT need the physical products to start creating content. Here's how to b
 
 ---
 
-### 3B. Tool Stack & Costs
+### 3B. Ready-to-Paste AI Video Prompts
+
+Copy-paste these directly into Kling AI, Google Veo/Flow, Runway, or Luma. Each prompt is designed for a 5–10 second clip. Stitch 3–5 clips together in CapCut for a full TikTok.
+
+#### Knife Set — Kling AI / Google Veo Prompts
+
+**PROMPT K-V1: The Hero Reveal**
+```
+A cinematic slow-motion shot of a 4-piece chef knife set arranged on a dark slate cutting board. Morning sunlight streams through a kitchen window, catching the steel blades. Fresh herbs, a red bell pepper, and garlic cloves are scattered around. Camera slowly pushes in. Shallow depth of field. 4K, warm color grading.
+```
+
+**PROMPT K-V2: The Tomato Slice**
+```
+Extreme close-up of a razor-sharp chef knife slicing through a ripe red tomato on a white marble countertop. The blade glides effortlessly, the tomato falls into perfect thin slices. Juice glistens on the steel. Slow motion, cinematic lighting from the left. ASMR-style, no music. 4K.
+```
+
+**PROMPT K-V3: The Speed Chop**
+```
+Top-down overhead shot of hands rapidly dicing an onion with a professional chef knife on a wooden cutting board. Fast, precise cuts. Small uniform pieces. Steam and onion mist visible in warm kitchen light. Real-time speed, dynamic energy. 4K.
+```
+
+**PROMPT K-V4: The Unboxing Moment**
+```
+Hands opening a sleek black box to reveal a set of four kitchen knives nestled in foam padding. Each knife is lifted out one by one and placed on a dark granite countertop. Close-up of fingers running along the blade edge. Soft warm lighting, shallow depth of field. 4K.
+```
+
+**PROMPT K-V5: The Bread Test**
+```
+Close-up side angle of a serrated bread knife cutting through a crusty artisan sourdough loaf. The crust cracks perfectly, soft interior visible. Crumbs falling in slow motion. Rustic wooden cutting board, kitchen background blurred. Warm tones, cinematic. 4K.
+```
+
+**PROMPT K-V6: The Comparison Shot**
+```
+Split screen view: left side shows a dull knife crushing a tomato, juice squeezing out messily. Right side shows a sharp chef knife gliding through the same tomato with zero effort, clean perfect slices. Both on white marble. Clean lighting, product commercial style. 4K.
+```
+
+**PROMPT K-V7: The Kitchen Lifestyle**
+```
+Wide shot of a modern bright kitchen. A person stands at the counter chopping colorful vegetables with a chef knife — bell peppers, carrots, zucchini. Soft natural light, plants on windowsill, clean aesthetic. Camera slowly orbits. Lifestyle commercial feel. 4K.
+```
+
+**PROMPT K-V8: The Detail Shot**
+```
+Extreme macro close-up of a chef knife blade edge, showing the polished steel surface. Camera slowly travels along the blade from tip to handle. Light reflects and shimmers along the edge. Black background, dramatic single-source lighting. 4K.
+```
+
+#### Cable Clips — Kling AI / Google Veo Prompts
+
+**PROMPT C-V1: The Messy Desk Problem**
+```
+Close-up of a cluttered desk edge with tangled charging cables, a USB cord, and headphone wire hanging messily off the side. Camera slowly pans across the chaos. Overhead office lighting, realistic modern desk with monitor and keyboard visible. 4K.
+```
+
+**PROMPT C-V2: The Satisfying Click**
+```
+Extreme close-up of a hand pressing a black magnetic cable clip onto the edge of a dark wooden desk. A white USB cable snaps into the magnetic groove with a satisfying click. Shallow depth of field, soft lighting. Slow motion. 4K.
+```
+
+**PROMPT C-V3: The Clean Desk Reveal**
+```
+Wide overhead shot of a perfectly organized minimalist desk setup. Five cables neatly held in place by small black magnetic clips along the desk edge. Monitor, keyboard, mouse, plant. Warm soft lighting, clean modern aesthetic. Camera slowly pulls back to reveal the full setup. 4K.
+```
+
+**PROMPT C-V4: The Before/After**
+```
+Time-lapse style transformation of a messy desk becoming organized. Cables go from tangled chaos to neatly clipped along the desk edge. Papers get stacked, items aligned. Camera fixed overhead. Bright office lighting. Satisfying transformation. 4K.
+```
+
+**PROMPT C-V5: The WFH Setup**
+```
+A person sitting at a clean home office desk, working on a laptop. Camera slowly zooms into the desk edge showing magnetic cable clips holding a charger, USB, and headphone cable perfectly in place. Warm afternoon light through window, cozy home office. 4K.
+```
+
+**PROMPT C-V6: The Magnetic Demo**
+```
+Close-up of a cable being pulled from a magnetic clip, used to charge a phone, then placed back in the clip where it snaps into place magnetically. Repeat with different cables. Dark desk, soft overhead light, focus on the magnetic action. 4K.
+```
+
+#### Phone Stand — Kling AI / Google Veo Prompts
+
+**PROMPT P-V1: The Resin Beauty Shot**
+```
+Extreme close-up of a handmade resin and wood phone stand. Swirling blue and emerald green resin patterns mixed with natural wood grain. Camera slowly rotates around the piece. White background, soft studio lighting from above and sides. Shallow depth of field, the resin catches and refracts light. 4K.
+```
+
+**PROMPT P-V2: The Desk Lifestyle**
+```
+A beautiful minimalist Scandinavian desk setup. A resin and wood phone stand sits next to a laptop, a small plant, and a coffee cup. A phone rests on the stand displaying a colorful wallpaper. Golden hour light streams through a window. Camera slowly pushes in toward the stand. Warm, cozy, aesthetic. 4K.
+```
+
+**PROMPT P-V3: The Gift Unwrap**
+```
+Hands unwrapping a small gift box with a ribbon. Inside, a resin and wood phone stand is revealed. Hands lift it out, turning it to show the swirling resin patterns from every angle. Close-up of amazed facial expression. Warm holiday lighting, bokeh in background. 4K.
+```
+
+**PROMPT P-V4: The Morning Routine**
+```
+Morning bedroom scene. Alarm goes off on a phone sitting on a beautiful resin and wood stand on a nightstand. Hand reaches over to tap the phone. Camera focuses on the stand — morning light hits the resin, creating beautiful color refractions. Soft, warm, peaceful. 4K.
+```
+
+**PROMPT P-V5: The Artisan Craft**
+```
+Close-up of liquid resin being poured into a wooden mold, swirling with blue and green pigments. Time-lapse of the resin curing. The finished phone stand is revealed, polished and gleaming. Woodworking workshop background, natural light. Artisan, handmade feel. 4K.
+```
+
+**PROMPT P-V6: The Collection Display**
+```
+Three different resin and wood phone stands arranged on a white shelf, each with unique color patterns — ocean blue, forest green, sunset orange. Camera slowly dollies past them. Each one catches light differently. Clean gallery-style presentation. 4K.
+```
+
+**PROMPT P-V7: The Nightstand Shot**
+```
+Dark moody bedroom at night. A phone stand on the nightstand holds a phone showing a clock. Soft lamp light illuminates the resin patterns in the stand, creating a warm glow. Camera slowly zooms in on the stand's surface details. Intimate, cozy. 4K.
+```
+
+#### Combo / Multi-Product Prompts
+
+**PROMPT COMBO-V1: The Desk Upgrade**
+```
+A desk transformation montage: starts messy with tangled cables, no phone stand, cluttered. One by one, magnetic cable clips snap onto the edge organizing each cable, then a resin phone stand is placed and a phone set on it. Final wide shot: perfectly organized aesthetic desk. Satisfying, upbeat energy. 4K.
+```
+
+**PROMPT COMBO-V2: The Kitchen-to-Desk**
+```
+Split scene: left half shows a kitchen counter with a 4-piece knife set on a cutting board with fresh ingredients. Right half shows a clean desk with a phone stand and organized cables. Both spaces are warm, inviting, well-lit. Camera slowly pushes into both simultaneously. "Upgrade every room" vibe. 4K.
+```
+
+---
+
+#### How to Use These Prompts
+
+1. **Kling AI (klingai.com):** Paste into "Text to Video" → select 16:9 or 9:16 (vertical for TikTok) → set duration to 5 or 10 seconds → generate. Free tier gives ~10 clips/day.
+2. **Google Veo / Flow (labs.google):** Paste into the prompt box → choose aspect ratio 9:16 → generate. Currently in limited access.
+3. **Runway ML (runwayml.com):** Use Gen-3 Alpha → paste prompt → set to 9:16 → generate. $12/mo plan gives ~40 clips.
+4. **Luma Dream Machine (lumalabs.ai):** Paste prompt → generate → download. Free tier available.
+5. **Pika (pika.art):** Best for stylized/artistic versions. Paste prompt → generate. Free tier available.
+
+**Assembly in CapCut:**
+- Pick 3–5 of your best generated clips
+- Arrange: Hero reveal → Demo/action → Lifestyle → CTA text card
+- Add AI voiceover (ElevenLabs) on top
+- Add auto-captions + trending sound at low volume
+- Export 1080x1920 vertical → upload to TikTok
+
+---
+
+### 3C. Tool Stack & Costs
 
 | Tool | What It Does | Monthly Cost | Output |
 |------|-------------|-------------|--------|
